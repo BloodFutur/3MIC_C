@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "pile.h": "c",
+        "stdlib.h": "c",
+        "string.h": "c",
+        "optional": "c",
+        "random": "c",
+        "stdexcept": "c",
+        "functional": "c",
+        "type_traits": "c",
+        "variant": "c",
+        "complex": "c",
+        "cstddef": "c",
+        "string": "c",
+        "vector": "c",
+        "cmath": "c",
+        "istream": "c",
+        "limits": "c",
+        "ostream": "c",
+        "sstream": "c",
+        "utility": "c",
+        "lexer.h": "c"
+    }
+}
